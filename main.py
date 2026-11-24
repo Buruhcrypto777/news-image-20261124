@@ -89,7 +89,7 @@ FONT = {
 
 
 def char_width(scale):
-    return 5 * scale + scale
+    return 6 * scale
 
 
 def text_width(text, scale):
